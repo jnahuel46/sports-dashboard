@@ -2,6 +2,25 @@
   "name": "sports-dashboard",
   "version": "0.1.0",
   "private": true,
+  "description": "A real-time sports dashboard featuring Argentine football, Formula 1, Premier League, and more",
+  "author": "Jeremias Nahuel Muriette",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/sports-dashboard.git"
+  },
+  "keywords": [
+    "sports",
+    "dashboard",
+    "football",
+    "soccer",
+    "formula-1",
+    "real-time",
+    "next.js",
+    "typescript",
+    "tailwind"
+  ],
+  "homepage": "https://github.com/your-username/sports-dashboard#readme",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build --turbopack",
